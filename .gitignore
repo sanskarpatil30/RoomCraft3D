@@ -1,0 +1,16 @@
+# Build outputs
+bin/*.exe
+bin/*.obj
+bin/*.o
+bin/*.pdb
+bin/*.ilk
+bin/out.txt
+bin/err.txt
+build/
+.vs/
+*.user
+*.suo
+
+# Preserved essentials
+!bin/libfreeglut.dll
+!bin/layouts/
