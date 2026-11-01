@@ -142,7 +142,6 @@ cmake --build . --config Release
 
 ---
 
-## 🎓 Viva & Technical Interview Explanation Guide
 
 ### 1. Coordinate System Convention
 - **X-Axis (Horizontal / Red):** Left (-) to Right (+) across the room width.
